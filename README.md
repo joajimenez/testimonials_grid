@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/joajimenez/testimonials_grid/blob/0476dc525227524456c7cf8f2de039ba8610b03e/images/screenshot.png)
+![Screenshot](https://github.com/joajimenez/testimonials_grid/blob/0476dc525227524456c7cf8f2de039ba8610b03e/images/screenshot.png)
 
 ### Links
 
